@@ -1,6 +1,6 @@
 # Teaching
 
-These is a collection of links to some science courses I'm building.
+Collection of links to some science courses I'm building.
 
 # Credits
 
